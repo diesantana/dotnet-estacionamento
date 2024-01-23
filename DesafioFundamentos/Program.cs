@@ -1,6 +1,7 @@
 ﻿using DesafioFundamentos.Models;
 
 // Coloca o encoding para UTF8 para exibir acentuação
+// você garante que a saída do console seja interpretada e exibida corretamente, especialmente ao lidar com caracteres acentuados ou caracteres de outros idiomas
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 decimal precoInicial = 0;
